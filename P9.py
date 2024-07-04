@@ -76,4 +76,4 @@ while True:
         print(f"發生錯誤：{e}")
 
     # 等待5秒後再次運行
-    time.sleep(5)
+    time.sleep(4)
